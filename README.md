@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <br/>
 
 ## current projects
-*section tbd*
+[![Notiflyer - KPIs as Emails](https://github-readme-stats.vercel.app/api/pin/?username=cleancoda&repo=notiflyer&theme=ocean_dark&cache_seconds=14400)](https://github.com/cleancoda/notiflyer)
 
 <p align="left">
   <a href="https://github.com/cleancoda?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-F0DB4F?style=for-the-badge&logo=koding&logoColor=white"/></a>
